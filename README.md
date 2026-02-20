@@ -273,9 +273,6 @@ Censitio Solo stores all data in your Windows user profile:
 - Version label visibility in dark mode
 - Settings page AttributeError for Free tier users
 
-### 📚 Full Changelog
-See [RELEASE_NOTES_v3.2.2.md](RELEASE_NOTES_v3.2.2.md) for complete details.
-
 ---
 
 ## 🔐 File Verification (SHA256 Checksums)

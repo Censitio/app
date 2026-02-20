@@ -322,7 +322,7 @@ Get-FileHash CensitioSolo_v3.2.2_win64.exe -Algorithm SHA256
 ## 💬 Support & Community
 
 **Get Help:**
-- 🐛 Report Bugs: [GitHub Issues](support@censitio.co.uk)
+- 🐛 Report Bugs: support@censitio.co.uk
 - 💬 Community Forum: [Coming Soon]
 
 ---
@@ -361,4 +361,4 @@ If Censitio Solo saves you time during tax season:
 
 **Made with ☕ in the UK for UK businesses**
 
-[Download Latest Release](https://github.com/Censitio/app/releases) | [Report Issue](support@censitio.co.uk)
+[Download Latest Release](https://github.com/Censitio/app/releases)

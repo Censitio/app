@@ -1,4 +1,9 @@
 # Censitio Solo — HMRC-Compliant Transaction Manager
+<br>
+<p align="center">
+  <img src="images/logo.png" width="150" />
+</p>
+<br>
 
 > **Professional transaction categorization and HMRC-compliant tax reporting for UK sole traders, freelancers, and micro-businesses.**
 

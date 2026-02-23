@@ -312,7 +312,7 @@ Get-FileHash CensitioSolo_v3.2.2_win64.exe -Algorithm SHA256
 ## 📄 License
 
 **Censitio Solo Free Tier** — Free for personal and commercial use
-**Censitio Solo Pro** — Annual subscription (coming Q3 2026)
+**Censitio Solo Pro** — Annual subscription (coming soon)
 
 Copyright © 2025 Censitio. All rights reserved.
 

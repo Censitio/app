@@ -302,38 +302,10 @@ SHA256: 674b2450cbd8f00275d52f017b2f8a6fc659c57a73a48eb56fd66573dbf4f590
 Get-FileHash CensitioSolo_v3.2.2_win64.exe -Algorithm SHA256
 ```
 
----
-
-## 🛣️ Roadmap
-
-### v3.3.0 (Q2 2026)
-- Code signing certificate
-- Multi-year tax report comparisons
-- Custom category creation
-- Enhanced merchant pattern editor
-- Improved duplicate detection
-
-### v3.4.0 — Pro Tier Launch (Q3 2026)
-- AI-powered categorization (OpenAI integration)
-- Professional PDF export templates
-- Business context awareness (industry-specific rules)
-- Bulk export operations
-- Priority email support
-
-### v4.0.0 — Business Edition (Q4 2026)
-- Multi-client management
-- Audit trail and change history
-- Advanced reporting templates
-- Excel add-in integration
-- API access for accountants
-
----
-
 ## 💬 Support & Community
 
 **Get Help:**
 - 🐛 Report Bugs: support@censitio.co.uk
-- 💬 Community Forum: [Coming Soon]
 
 ---
 

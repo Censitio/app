@@ -176,6 +176,11 @@ Generate professional reports in seconds:
 </p>
 *Professional income/expense breakdown with net profit calculation*
 
+### Full Workflow
+<p align="center">
+  <img src="animation/workflow.gif" width="800" />
+</p>
+
 ---
 
 ## 🔒 Security & Privacy

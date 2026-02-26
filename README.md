@@ -1,9 +1,6 @@
 # Censitio Solo — HMRC-Compliant Transaction Manager
 > **Professional transaction categorization and HMRC-compliant tax reporting for UK sole traders, freelancers, and micro-businesses.**
-<br>
-<p align="center">
-  <img src="images/logo.png" width="150" />
-</p>
+
 <br>
 
 Censitio Solo is a desktop application that transforms messy bank statements into organized, HMRC-ready tax reports. Built for UK sole traders who need reliable transaction categorization without the complexity of full accounting software.
